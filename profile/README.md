@@ -32,7 +32,7 @@ ___
 [<img src='https://user-images.githubusercontent.com/113435724/230788194-343e477a-f306-4110-aa86-fcca9e122060.png' alt='nym'  width='24.5%'>](https://mixnet.explorers.guru/mixnode/4XSMGj52Vi95SNSRMQc3c7hMC5318iUZVB6iw7tL15jT)
 [<img src='https://user-images.githubusercontent.com/113435724/230788175-3ed49d27-f357-417d-9007-ed79ffb2c3a1.png' alt='axelar'  width='24.5%'>](https://www.axelarscan.io/validator/axelarvaloper14fpqu7kpvlhlhyefsmus6strrz4kwselc5caah)
 [<img src='https://user-images.githubusercontent.com/113435724/234062185-cb7a94c7-ab03-4838-827b-579c780b6b8a.png' alt='stader'  width='24.5%'>](https://beaconcha.in/validator/8757a9896d3b661e25009792d22e0d7dee101756cc0d2a11d9f4359646bb97b4b41ab8a2ebb29c45cdf096f15fa6e96a#deposits)
-[<img src='https://github.com/Crouton-Digital/.github/assets/83868103/ee761712-aaa3-457e-81c5-9bff6f4241e3' alt='Composable'  width='24.5%'>](https://github.com/CroutonDigital)
+[<img src='https://github.com/Crouton-Digital/.github/assets/83868103/b0e971ec-2ebb-4202-b333-3393d8f668f2' alt='Composable'  width='24.5%'>](https://github.com/CroutonDigital)
 
 
 
@@ -47,8 +47,8 @@ ___
 [<img src='https://user-images.githubusercontent.com/113435724/234098481-b89449b6-3577-453a-8ef5-0803c1a7d84c.png' alt='cascadia'  width='24.5%'>](https://testnet.cascadia.explorers.guru/validator/cascadiavaloper1tvv8chnf20gaxr8xgwqc4qnfjfjjf6ttgdzc8r)
 [<img src='https://user-images.githubusercontent.com/113435724/230788178-f766e79e-8228-4dae-a671-9cc2817973dc.png' alt='defund'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/113435724/230788181-168c5efa-20f0-43a8-9c80-9575c52117e0.png' alt='haqq'  width='24.5%'>](https://github.com/CroutonDigital)
-[<img src='https://github.com/Crouton-Digital/.github/assets/83868103/cd142577-a21e-473a-bd48-dbc14faf0c95' alt='Althea'  width='24.5%'>](https://github.com/CroutonDigital)
-[<img src='https://github.com/Crouton-Digital/.github/assets/83868103/ee761712-aaa3-457e-81c5-9bff6f4241e3' alt='Composable'  width='24.5%'>](https://github.com/CroutonDigital)
+[<img src='https://github.com/Crouton-Digital/.github/assets/83868103/7ea014f2-7572-4e5b-ac35-719f5707425c' alt='Althea'  width='24.5%'>](https://github.com/CroutonDigital)
+[<img src='https://github.com/Crouton-Digital/.github/assets/83868103/b0e971ec-2ebb-4202-b333-3393d8f668f2' alt='Composable'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/113435724/230788184-00a5849b-b973-49dc-ac14-53a0b7a3278d.png' alt='ironfish'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/113435724/230788187-b4ea79f0-8e06-4812-8287-2fa01834950f.png' alt='mande'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/113435724/230788188-5cdbfade-af45-4ecc-8d3a-d83d16cc8369.png' alt='massa'  width='24.5%'>](https://github.com/CroutonDigital)
@@ -63,6 +63,7 @@ ___
 [<img src='https://user-images.githubusercontent.com/113435724/230788204-0980cc1b-16d0-4de2-a73b-2f7f6dcf0754.png' alt='subspace'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/113435724/230788205-2e5e95a2-4c66-4a4b-8bb6-2123f5732aad.png' alt='sui'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/113435724/230788206-10dfa59a-3031-462f-b49f-3534761d3792.png' alt='taiko'  width='24.5%'>](https://github.com/CroutonDigital)
+\
 
 
 
