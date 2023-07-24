@@ -31,6 +31,7 @@ ___
 [<img src='https://user-images.githubusercontent.com/113435724/230788207-7c57c32e-eff6-46c5-969e-e4f3d58bfe64.png' alt='umee'  width='24.5%'>](https://www.mintscan.io/umee/validators/umeevaloper1z6qsfe95y3luzj4wve93s9w6rjs7msk972zs4f)
 [<img src='https://user-images.githubusercontent.com/113435724/230788194-343e477a-f306-4110-aa86-fcca9e122060.png' alt='nym'  width='24.5%'>](https://mixnet.explorers.guru/mixnode/4XSMGj52Vi95SNSRMQc3c7hMC5318iUZVB6iw7tL15jT)
 [<img src='https://user-images.githubusercontent.com/113435724/230788175-3ed49d27-f357-417d-9007-ed79ffb2c3a1.png' alt='axelar'  width='24.5%'>](https://www.axelarscan.io/validator/axelarvaloper14fpqu7kpvlhlhyefsmus6strrz4kwselc5caah)
+[<img src='https://user-images.githubusercontent.com/113435724/234062185-cb7a94c7-ab03-4838-827b-579c780b6b8a.png' alt='stader'  width='24.5%'>](https://beaconcha.in/validator/8757a9896d3b661e25009792d22e0d7dee101756cc0d2a11d9f4359646bb97b4b41ab8a2ebb29c45cdf096f15fa6e96a#deposits)
 
 
 
@@ -43,7 +44,6 @@ ___
 [<img src='https://user-images.githubusercontent.com/113435724/230788176-a65a3d6e-d93b-47c0-8e48-5a54afb843da.png' alt='celestia'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/113435724/230788177-03e3c690-3e97-430f-a8f1-a02e1048eb0a.png' alt='chainflip'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/113435724/234098481-b89449b6-3577-453a-8ef5-0803c1a7d84c.png' alt='cascadia'  width='24.5%'>](https://testnet.cascadia.explorers.guru/validator/cascadiavaloper1tvv8chnf20gaxr8xgwqc4qnfjfjjf6ttgdzc8r)
-[<img src='https://user-images.githubusercontent.com/113435724/234062185-cb7a94c7-ab03-4838-827b-579c780b6b8a.png' alt='stader'  width='24.5%'>](https://prater.beaconcha.in/validator/83c1e5d783c0cb755ffe3964bcb39e0fe8d0bf3f33bcf606200acd8a8529e534e9fc769babd2d81b119034c2253ced16#deposits)
 [<img src='https://user-images.githubusercontent.com/113435724/230788178-f766e79e-8228-4dae-a671-9cc2817973dc.png' alt='defund'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/113435724/230788181-168c5efa-20f0-43a8-9c80-9575c52117e0.png' alt='haqq'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/113435724/230788184-00a5849b-b973-49dc-ac14-53a0b7a3278d.png' alt='ironfish'  width='24.5%'>](https://github.com/CroutonDigital)
