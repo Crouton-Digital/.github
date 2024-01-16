@@ -32,6 +32,7 @@ ___
 [<img src='https://user-images.githubusercontent.com/113435724/230788194-343e477a-f306-4110-aa86-fcca9e122060.png' alt='nym'  width='24.5%'>](https://mixnet.explorers.guru/mixnode/4XSMGj52Vi95SNSRMQc3c7hMC5318iUZVB6iw7tL15jT)
 [<img src='https://user-images.githubusercontent.com/113435724/230788175-3ed49d27-f357-417d-9007-ed79ffb2c3a1.png' alt='axelar'  width='24.5%'>](https://www.axelarscan.io/validator/axelarvaloper14fpqu7kpvlhlhyefsmus6strrz4kwselc5caah)
 [<img src='https://user-images.githubusercontent.com/113435724/234062185-cb7a94c7-ab03-4838-827b-579c780b6b8a.png' alt='stader'  width='24.5%'>](https://beaconcha.in/validator/8757a9896d3b661e25009792d22e0d7dee101756cc0d2a11d9f4359646bb97b4b41ab8a2ebb29c45cdf096f15fa6e96a#deposits)
+[<img src='https://user-images.githubusercontent.com/113435724/230788188-5cdbfade-af45-4ecc-8d3a-d83d16cc8369.png' alt='massa'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='https://github.com/Crouton-Digital/.github/assets/83868103/b0e971ec-2ebb-4202-b333-3393d8f668f2' alt='Composable'  width='24.5%'>](https://explorer.stavr.tech/composable-mainnet/staking/centaurivaloper123rv9yms3dwfs0gh8rwenzxn8u5w34pe873wen)
 
 
@@ -51,7 +52,6 @@ ___
 [<img src='https://github.com/Crouton-Digital/.github/assets/83868103/b0e971ec-2ebb-4202-b333-3393d8f668f2' alt='Composable'  width='24.5%'>](https://explorer.stavr.tech/composable-mainnet/staking/centaurivaloper123rv9yms3dwfs0gh8rwenzxn8u5w34pe873wen)
 [<img src='https://user-images.githubusercontent.com/113435724/230788184-00a5849b-b973-49dc-ac14-53a0b7a3278d.png' alt='ironfish'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/113435724/230788187-b4ea79f0-8e06-4812-8287-2fa01834950f.png' alt='mande'  width='24.5%'>](https://github.com/CroutonDigital)
-[<img src='https://user-images.githubusercontent.com/113435724/230788188-5cdbfade-af45-4ecc-8d3a-d83d16cc8369.png' alt='massa'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/113435724/230788189-cb455c6e-62ae-4e76-ab2e-204c23ff1177.png' alt='namada'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/113435724/230788190-8f8581d7-9bd5-48e5-8330-e97fd46cf4e5.png' alt='neutron'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/113435724/230788191-4ab1ba99-4916-410f-95df-5fca84946b5b.png' alt='nibiru'  width='24.5%'>](https://github.com/CroutonDigital)
