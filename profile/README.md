@@ -68,8 +68,6 @@ ___
 [<img src='https://github.com/Crouton-Digital/.github/assets/113435724/79b44fda-cd71-4fa1-872b-f1d34c12fef1' alt='lava'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='https://github.com/Crouton-Digital/.github/assets/113435724/e4324bce-bd0c-4763-9b05-a60ac1ae85f1' alt='eigen'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='https://github.com/Crouton-Digital/.github/assets/113435724/461f63d9-37d9-4cb6-a858-b8e49251644d' alt='obol'  width='24.5%'>](https://github.com/CroutonDigital)
-
-
 [<img src='https://user-images.githubusercontent.com/113435724/230788206-10dfa59a-3031-462f-b49f-3534761d3792.png' alt='taiko'  width='24.5%'>](https://github.com/CroutonDigital)
 
 
